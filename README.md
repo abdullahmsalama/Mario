@@ -1,3 +1,10 @@
+A goofy code of grid of Mario finding the Princess in a grid with blocks
+
+To be done 
+
+- Using A*
+- Using a reinforcement learning agent
+
 To use the code you can install the following:
 ```
 pip install flask_sqlalchemy
